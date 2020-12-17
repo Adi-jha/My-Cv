@@ -1,0 +1,192 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+ 
+}
+h1{ 
+    margin-top: 0;
+    padding-top: 150px;
+    font-family: 'Sacramento', cursive;
+    font-size: 5rem;
+    color: #66bfbf;
+    
+}
+h2{
+    color: #66bfbf;
+    font-size: 1.7rem;
+}
+h3{
+    color: #11999e;
+    
+}
+p{
+    padding-bottom: 30px;
+    color:rgba(129, 134, 158, 0.959);
+    line-height: 2;
+    
+        
+}
+h4{
+    font-family: 'Merriweather', serif;
+    color: #66bfbf;
+    font-weight: normal;
+    font-size: 1rem;
+}
+hr{
+    color: antiquewhite;
+    border: none;
+    border-top: dotted;
+    border-width: 5px;
+    
+    
+}
+a{
+    color: #11999e;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+a:hover{
+    color: darkgray;
+}
+.hr{
+    width: 10%;
+    border: none;
+    border-top: dashed;
+    border-width: 3px;
+    position: absolute;
+    top: 340px;
+    left: 610px;
+    color:rgb(236, 221, 174) ;
+}
+.top-container{
+    
+    height: 700px;
+    position: relative;
+    background-color: rgb(217, 240, 247);
+    width: 1349px;
+}
+.middle-container{
+    position: relative;
+    background-color: rgb(215, 216, 187);
+    padding-top: 40px;
+    width:1349px;
+}
+.para{
+    padding-bottom: 100px;
+}
+.third-container{
+    width: 1349px;
+    background-color: rgb(238, 205, 192);
+    position: relative;
+    bottom: 7rem;
+    padding-top: 2rem;
+    margin-bottom: 0px;
+ 
+}
+.bottom-container{
+    
+    background-color: rgb(87,84,84);
+    margin-top: 0;
+    width: 1349px;
+    position: absolute;
+    top:2900px;
+}
+.span{
+    text-decoration: underline;
+    text-decoration-color:rgb(218, 221, 226);
+}
+.first{
+    position: absolute; 
+    left: 15rem;
+    top: 1.25rem;
+}
+.second{
+    position: absolute;
+    bottom: 36rem;
+    left: 60rem;
+}
+.third{
+    position: absolute;
+    bottom: 0px;
+    left: 0;
+}
+.fourth{
+    position: absolute;
+    left: 130px;
+    bottom: 440px;
+}
+.skill-row{
+    width: 50%;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    text-align: left;
+    position: relative;
+}
+.fifth{
+    position: absolute;
+    bottom: 25rem;
+    left: 65rem;
+}
+.Photography2{
+    position: relative;
+    float:left;
+    padding-right:20px;
+    width: 50%;
+    border-radius: 100%;
+ }
+.Drawing{
+    position: relative;
+    float: right;
+    width: 30%;
+}
+.d{
+    position: relative;
+    top: 10px;
+}
+.hobbies-row{
+    width: 50%;
+    text-align: left;
+    margin: auto;
+    position: relative;
+    margin-top: 50px;
+    margin-bottom: 100px;
+
+}
+.coins{
+    width: 12rem;
+    position: relative;
+    float: left;
+    padding-right: 40px;
+}  
+.toys{
+    position: relative;
+    width: 13rem;
+    float: right;
+    padding-left: 40px;
+}
+.animal{
+    position: relative;
+    width: 13rem;
+    float: left;
+    padding-right: 40px;
+
+}
+.contact-me{
+    padding-top: 40px;
+}
+.last{
+    margin-bottom: 40px;
+    padding-top: 20;
+    color: cornsilk;
+    font-weight: lighter;
+}
+.footer-link{
+    display: inline-block;
+    padding-left: 20px;
+    padding-right: 10px;
+    padding-top: 40px;
+    color: rgb(58, 57, 55);
+    text-decoration: none;
+}
